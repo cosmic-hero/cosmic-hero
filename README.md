@@ -25,7 +25,6 @@
 
 I build things that feel *alive* — systems, code, ideas.  
 Anything that blurs the line between logic and instinct.  
-AI, robotics, real-time systems. Evangelion was inevitable.
 
 <br/>
 

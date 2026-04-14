@@ -1,137 +1,131 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3C28&height=200&section=header&text=ANGE%20%7C%20SYSTEM%20INITIALIZING&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=header"/>
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif](https://giphy.com/gifs/animatr-anime-evangelion-eva-de2Bd0zXO07EIxwLj8)" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3C28&height=180&section=header&text=NERV%20MAGI%20SYSTEM%20%2F%2F%20ANGE&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=SYNCHRONIZATION%20INITIALIZED&descSize=13&descFontColor=FF8C00&descAlignY=65&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Synchronization+in+progress...;Building+cool+things...;AI+%7C+Robotics+%7C+Systems;Welcome+to+my+mind.&center=true&size=18&color=FF8C00">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=FF3C28&center=true&vCenter=true&multiline=false&width=500&lines=MAGI+SYSTEM+ONLINE...;PILOT+ANGE+%2F%2F+SYNC+RATE+87%25;BUILDING+AI+%7C+SYSTEMS+%7C+REAL-TIME;PATTERN+BLUE+DETECTED.+PROCEED." />
 </p>
 
----
+<br/>
 
-## 🧠 // PILOT PROFILE
-
-```bash
-> NAME: Ange
-> STATUS: Active
-> SYNC RATE: 87%
-> CONDITION: Stable (mostly)
+```
+╔══════════════════════════════════════════════════════════╗
+║  NERV PERSONNEL FILE // CLASS: ENGINEER                  ║
+║  ─────────────────────────────────────────────────────   ║
+║  PILOT    :: ANGE                                        ║
+║  STATUS   :: ACTIVE                                      ║
+║  SYNC     :: 87.3%                                       ║
+║  THREAT   :: BUILDING                                    ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-> I build things that feel *alive*.
-> Systems, code, ideas — anything that blurs the line between logic and imagination.
->
-> AI, robotics, real-time systems…
-> yeah, Evangelion was inevitable.
->
-> Still figuring things out — but always building.
+I build things that feel *alive* — systems, code, ideas.  
+Anything that blurs the line between logic and instinct.  
+AI, robotics, real-time systems. Evangelion was inevitable.
+
+<br/>
 
 ---
-
-## ⚙️ // SYSTEM CAPABILITIES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nodejs,html,css&theme=dark" />
 </p>
 
-```txt
-C++        ████████████
-Java       ███████████
-Python     ████████████
-JavaScript ███████████
-TypeScript ██████████
-React      ██████████
-Node.js    ██████████
-HTML/CSS   ███████████
+<br/>
+
+```
+// SYSTEM CAPABILITIES ──────────────────────────────────────
+
+C++           ████████████░░  ACTIVE
+Java          ███████████░░░  ACTIVE  
+Python        ████████████░░  ACTIVE
+JavaScript    ███████████░░░  ACTIVE
+TypeScript    ██████████░░░░  ACTIVE
+React         ██████████░░░░  ACTIVE
+Node.js       ██████████░░░░  ACTIVE
+HTML / CSS    ███████████░░░  ACTIVE
 ```
 
----
+<br/>
 
-## 🧩 // ACTIVE MODULES
+---
 
 ```diff
+// ACTIVE MODULES ────────────────────────────────────────────
+
 + AI & intelligent systems
-+ Real-time apps & WebSockets
-+ Full-stack development
-+ Game concepts (classified)
-- Leaving ideas unfinished (in progress...)
++ Real-time apps & WebSockets  
++ Full-stack architecture
++ Game concepts [CLASSIFIED]
+- Leaving things unfinished [COUNTERMEASURES: ACTIVE]
 ```
 
----
+<br/>
 
-## 🚀 // CURRENT OBJECTIVE
+---
 
 ```bash
-> developing_skillset --focus=AI,systems,creativity
-> eliminating_overthinking --force
-> deploying_projects --consistent
+// CURRENT OBJECTIVE ─────────────────────────────────────────
+
+$ run develop --focus=AI,systems,creativity
+$ run deploy  --mode=consistent --override=perfectionism
+$ run purge   --target=overthinking --force
 ```
+
+<br/>
 
 ---
 
-## 📊 // SYSTEM METRICS
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmic-hero&show_icons=true&theme=tokyonight&title_color=FF3C28&icon_color=FF8C00&text_color=ffffff&bg_color=0D0D0D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmic-hero&show_icons=true&theme=tokyonight&title_color=FF3C28&icon_color=FF8C00&text_color=ffffff&bg_color=0D0D0D&border_color=FF3C28&border_radius=0&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-hero&theme=tokyonight&ring=FF3C28&fire=FF8C00&currStreakLabel=FF8C00&background=0D0D0D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-hero&theme=tokyonight&ring=FF3C28&fire=FF8C00&currStreakLabel=FF8C00&background=0D0D0D&border=FF3C28&sideLabels=ffffff&dates=888888" />
 </p>
 
+<br/>
+
 ---
 
-## 🐍 // ACTIVITY TRACE
+```
+// ACTIVITY TRACE ─────────────────────────────────────────────
+```
 
 <p align="center">
-  <img src="https://github.com/cosmic-hero/cosmic-hero/blob/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cosmic-hero/cosmic-hero/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cosmic-hero/cosmic-hero/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cosmic-hero/cosmic-hero/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
+<br/>
+
 ---
 
-## 🕹️ // PROJECT TERMINAL
+```
+// PROJECT STATUS ─────────────────────────────────────────────
 
-```bash
-> loading projects...
-
-[1] AI Experiments ................. [RUNNING]
-[2] Web Apps ....................... [STABLE]
-[3] Game Concepts ................. [IN DEVELOPMENT]
-[4] Random Ideas.exe .............. [CHAOTIC]
-
-> select project to explore...
+[01]  AI Experiments        :::::::::::  RUNNING
+[02]  Web Applications      :::::::::::  STABLE  
+[03]  Game Concepts         ::::::::...  IN DEVELOPMENT
+[04]  Random Ideas.exe      :::....      CHAOTIC / ACTIVE
 ```
 
----
-
-## 🎨 // VISUAL IDENTITY
-
-```txt
-PRIMARY   :: #FF3C28  (Asuka Red)
-ACCENT    :: #FF8C00  (Orange)
-HIGHLIGHT :: #FFD700  (Gold)
-BACKGROUND:: #0D0D0D  (Deep Black)
-```
+<br/>
 
 ---
 
-## 📡 // CONNECTION STATUS
-
-```bash
-> signal_strength: ███████░░░ 70%
-> availability: building...
-> response_time: depends on caffeine levels
-```
-
----
 
 <p align="center">
-  <i>"I’ll figure it out. I always do."</i>
+  <sub>I'll figure it out. I always do.</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3C28&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3C28&height=100&section=footer"/>
 </p>
